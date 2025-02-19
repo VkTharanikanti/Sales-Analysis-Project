@@ -1,6 +1,4 @@
 ### ✅ **Check: Repository Structure**
-Your repository should have the following structure before adding the `README.md` file:  
-```
 sales-analysis-project/
 │── data/
 │   ├── sales_data.csv  # Sample sales dataset
@@ -23,7 +21,6 @@ sales-analysis-project/
 
 ### 📜 **README.md File**  
 
-Now, create a file `README.md` in your root folder and add the following content:  
 
 ```md
 # 📊 Sales Data Analysis & Insights Dashboard  
@@ -38,7 +35,7 @@ This project analyzes sales data from a retail store to generate key business in
 ---
 
 ## 📂 Project Structure  
-```
+```md`
 sales-analysis-project/
 │── data/                     # Contains datasets & generated outputs
 │── scripts/                  # Python scripts for data processing
